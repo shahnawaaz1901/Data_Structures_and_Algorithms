@@ -21,4 +21,6 @@ int main()
     */
 
     cout << &i << endl; // Prints Address of i in HexaDecimal Form
+
+    /*Pointer Helps Us to Keep Memory Address of Any Variable*/
 }
