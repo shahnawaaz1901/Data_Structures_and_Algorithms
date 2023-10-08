@@ -38,8 +38,8 @@ int main(){
     */
 
    cout << ch << endl;
-   /*   Above Statement Read all 4 bytes but our content is only available at first byte so 
+    /*  Above Statement Read all 4 bytes but our content is only available at first byte so 
         after first byte Guarbage is Printed
-   */
-
+    */
+    
 }
